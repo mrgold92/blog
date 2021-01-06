@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Future Imperfect Slim em português</title>
-    <link>https://mrgold92.github.io/pt/</link>
+    <link>https://mrgold92.github.io/blog/pt/</link>
     <description>Recent content on Hugo Future Imperfect Slim em português</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language><atom:link href="https://mrgold92.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt</language><atom:link href="https://mrgold92.github.io/blog/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre</title>
-      <link>https://mrgold92.github.io/pt/about/</link>
+      <link>https://mrgold92.github.io/blog/pt/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mrgold92.github.io/pt/about/</guid>
+      <guid>https://mrgold92.github.io/blog/pt/about/</guid>
       <description></description>
     </item>
     

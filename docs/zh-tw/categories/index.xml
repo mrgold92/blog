@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mi blog</title>
-    <link>https://mrgold92.github.io/zh-tw/categories/</link>
+    <link>https://mrgold92.github.io/blog/zh-tw/categories/</link>
     <description>Recent content in Categories on Mi blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language><atom:link href="https://mrgold92.github.io/zh-tw/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language><atom:link href="https://mrgold92.github.io/blog/zh-tw/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

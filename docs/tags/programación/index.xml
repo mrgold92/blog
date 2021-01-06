@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>programación on Mi blog</title>
-    <link>https://mrgold92.github.io/tags/programaci%C3%B3n/</link>
+    <link>https://mrgold92.github.io/blog/tags/programaci%C3%B3n/</link>
     <description>Recent content in programación on Mi blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mrgold92.github.io/tags/programaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mrgold92.github.io/blog/tags/programaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hola mundo</title>
-      <link>https://mrgold92.github.io/blog/01-00-hola-mundo/</link>
+      <link>https://mrgold92.github.io/blog/blog/01-00-hola-mundo/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mrgold92.github.io/blog/01-00-hola-mundo/</guid>
+      <guid>https://mrgold92.github.io/blog/blog/01-00-hola-mundo/</guid>
       <description>Bienvenidos a mi primer blog. Hacía muchísimo tiempo que tenía en mente escribir un blog sobre aquellos temas que me apasionan, que básicamente son temas enfocado a la programación, tanto de aplicaciones web, como móviles o de escritorio.
 En este vuestro ya primer post, veremos algo muy sencillo: cómo poder hacer un &amp;ldquo;hola mundo&amp;rdquo; en diferentes lenguajes de programación. Más adelante nos enfocaremos en tres lenguajes que a mí me apasionan: JavaScript, Java y PHP.</description>
     </item>
