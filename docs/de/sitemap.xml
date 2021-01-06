@@ -6,16 +6,6 @@
     <loc>https://mrgold92.github.io/blog/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl"
-                href="https://mrgold92.github.io/blog/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mrgold92.github.io/blog/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://mrgold92.github.io/blog/categories/"
                 />
@@ -69,16 +59,6 @@
     <loc>https://mrgold92.github.io/blog/de/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pl"
-                href="https://mrgold92.github.io/blog/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mrgold92.github.io/blog/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="https://mrgold92.github.io/blog/"
                 />
@@ -111,16 +91,6 @@
   
   <url>
     <loc>https://mrgold92.github.io/blog/de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://mrgold92.github.io/blog/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mrgold92.github.io/blog/pt/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"

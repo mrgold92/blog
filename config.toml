@@ -8,7 +8,7 @@ paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = ["en","fr"]
+disableLanguages        = ["en","fr", "pl", "pt"]
 publishDir              = "docs"
 relativeURLs            = false
 
@@ -46,7 +46,7 @@ relativeURLs            = false
     dynamicTitles       = true
     searchMenu          = false
     shareMenu           = false
-    languageMenu        = true
+    languageMenu        = false
 
   [params.intro]
     header                = "Mi blog"
@@ -89,7 +89,7 @@ relativeURLs            = false
   [[menu.main]]
     name              = "Home"
     identifier        = "home"
-    url               = "blog/"
+    url               = "/"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
 
