@@ -3,246 +3,246 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mrgold92.github.io/blog/blog/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mrgold92.github.io/blog/tags/c&#43;&#43;/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mrgold92.github.io/blog/categories/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrgold92.github.io/blog/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mrgold92.github.io/blog/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://mrgold92.github.io/blog/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mrgold92.github.io/blog/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mrgold92.github.io/blog/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mrgold92.github.io/blog/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://mrgold92.github.io/blog/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mrgold92.github.io/blog/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://mrgold92.github.io/blog/nl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mrgold92.github.io/blog/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mrgold92.github.io/blog/blog/01-00-hola-mundo/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mrgold92.github.io/blog/tags/java/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mrgold92.github.io/blog/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrgold92.github.io/blog/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mrgold92.github.io/blog/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://mrgold92.github.io/blog/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://mrgold92.github.io/blog/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mrgold92.github.io/blog/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mrgold92.github.io/blog/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://mrgold92.github.io/blog/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mrgold92.github.io/blog/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://mrgold92.github.io/blog/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mrgold92.github.io/blog/"
-                />
   </url>
   
   <url>
-    <loc>https://mrgold92.github.io/blog/tags/php/</loc>
+    <loc>https://mrgold92.github.io/tags/c&#43;&#43;/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mrgold92.github.io/blog/tags/programaci%C3%B3n/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mrgold92.github.io/blog/categories/programaci%C3%B3n/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mrgold92.github.io/blog/tags/</loc>
+    <loc>https://mrgold92.github.io/categories/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mrgold92.github.io/blog/en/tags/"
+                href="https://mrgold92.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mrgold92.github.io/blog/fr/tags/"
+                href="https://mrgold92.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mrgold92.github.io/blog/pl/tags/"
+                href="https://mrgold92.github.io/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mrgold92.github.io/blog/pt/tags/"
+                href="https://mrgold92.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://mrgold92.github.io/blog/de/tags/"
+                href="https://mrgold92.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://mrgold92.github.io/blog/zh-cn/tags/"
+                href="https://mrgold92.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://mrgold92.github.io/blog/zh-tw/tags/"
+                href="https://mrgold92.github.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mrgold92.github.io/blog/ja/tags/"
+                href="https://mrgold92.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://mrgold92.github.io/blog/nl/tags/"
+                href="https://mrgold92.github.io/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://mrgold92.github.io/blog/tags/"
+                href="https://mrgold92.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://mrgold92.github.io/blog/about/</loc>
+    <loc>https://mrgold92.github.io/blog/01-00-hola-mundo/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrgold92.github.io/tags/java/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrgold92.github.io/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrgold92.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mrgold92.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://mrgold92.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mrgold92.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mrgold92.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://mrgold92.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://mrgold92.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mrgold92.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://mrgold92.github.io/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mrgold92.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mrgold92.github.io/tags/php/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrgold92.github.io/tags/programaci%C3%B3n/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrgold92.github.io/categories/programaci%C3%B3n/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrgold92.github.io/tags/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mrgold92.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mrgold92.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://mrgold92.github.io/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://mrgold92.github.io/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mrgold92.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://mrgold92.github.io/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://mrgold92.github.io/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mrgold92.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://mrgold92.github.io/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mrgold92.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mrgold92.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://mrgold92.github.io/blog/pl/about/"
+                href="https://mrgold92.github.io/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mrgold92.github.io/blog/fr/about/"
+                href="https://mrgold92.github.io/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://mrgold92.github.io/blog/pt/about/"
+                href="https://mrgold92.github.io/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://mrgold92.github.io/blog/about/"
+                href="https://mrgold92.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>https://mrgold92.github.io/blog/contact/</loc>
+    <loc>https://mrgold92.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://mrgold92.github.io/blog/de/contact/"
+                href="https://mrgold92.github.io/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://mrgold92.github.io/blog/zh-cn/contact/"
+                href="https://mrgold92.github.io/zh-cn/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://mrgold92.github.io/blog/contact/"
+                href="https://mrgold92.github.io/contact/"
                 />
   </url>
   

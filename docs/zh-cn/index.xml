@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi blog</title>
-    <link>https://mrgold92.github.io/blog/zh-cn/</link>
+    <link>https://mrgold92.github.io/zh-cn/</link>
     <description>Recent content on Mi blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://mrgold92.github.io/blog/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://mrgold92.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>联络</title>
-      <link>https://mrgold92.github.io/blog/zh-cn/contact/</link>
+      <link>https://mrgold92.github.io/zh-cn/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrgold92.github.io/blog/zh-cn/contact/</guid>
+      <guid>https://mrgold92.github.io/zh-cn/contact/</guid>
       <description></description>
     </item>
     
