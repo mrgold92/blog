@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi blog</title>
-    <link>https://example.com/nl/</link>
+    <link>https://mrgold92.github.io/blog/nl/</link>
     <description>Recent content on Mi blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl</language><atom:link href="https://example.com/nl/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl</language><atom:link href="https://mrgold92.github.io/blog/nl/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
