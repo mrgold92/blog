@@ -78,3 +78,6 @@ document.write('¡Hola mundo!');
 console.log('¡Hola mundo!')
 ```
 
+Y con esto tendríamos todos los "hola mundo" en diferentes lenguajes de programación.
+
+Espero que os haya gustado y nos vemos en el siguente post.
