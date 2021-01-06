@@ -17,16 +17,6 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrgold92.github.io/blog/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mrgold92.github.io/blog/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pl"
                 href="https://mrgold92.github.io/blog/pl/categories/"
                 />
@@ -80,16 +70,6 @@
   <url>
     <loc>https://mrgold92.github.io/blog/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mrgold92.github.io/blog/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mrgold92.github.io/blog/fr/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -152,16 +132,6 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://mrgold92.github.io/blog/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mrgold92.github.io/blog/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pl"
                 href="https://mrgold92.github.io/blog/pl/tags/"
                 />
@@ -209,11 +179,6 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://mrgold92.github.io/blog/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mrgold92.github.io/blog/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
