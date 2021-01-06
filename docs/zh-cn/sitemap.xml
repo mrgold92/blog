@@ -104,23 +104,4 @@
                 />
   </url>
   
-  <url>
-    <loc>https://mrgold92.github.io/blog/zh-cn/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mrgold92.github.io/blog/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mrgold92.github.io/blog/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mrgold92.github.io/blog/zh-cn/contact/"
-                />
-  </url>
-  
 </urlset>

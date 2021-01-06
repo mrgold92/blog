@@ -26,14 +26,5 @@ En este vuestro ya primer post, veremos algo muy sencillo: cómo poder hacer un 
       <description>⚠️ En construcción.</description>
     </item>
     
-    <item>
-      <title>Contacto</title>
-      <link>https://mrgold92.github.io/blog/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrgold92.github.io/blog/contact/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
